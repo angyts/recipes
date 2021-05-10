@@ -1,6 +1,6 @@
 ---
 home: true
-heroText: Teach me Vuepress!
+heroText: Teach me Vuepress, and something!
 heroImage: https://vuepress.vuejs.org/hero.png
 actionText: Read more →
 actionLink: /
