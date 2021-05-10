@@ -2,7 +2,7 @@ backend:
   name: github
   repo: punggolzenith/januarythyn
   branch: master
-media_folder: .vuepress/img/uploads
+media_folder: .vuepress/public/img/uploads
 public_folder: .vuepress/public
 display_url: https://suspicious-visvesvaraya-5459d7.netlify.app/
 collections:
