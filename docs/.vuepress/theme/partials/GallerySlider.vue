@@ -1,34 +1,73 @@
 <template>
   <main id="site-slider" class="site-slider outer">
-      <div class="site-slider-carousell">
-        <carousel
-            v-if="header.showCover"
-            :scrollPerPage="true"
-            :perPageCustom="[[480, 1], [768, 3], [1020, 5]]"
-            :navigationEnabled="false"
-        >
-          <slide
-              v-for="(post, index) in posts"
-              :key="index"
-          >
-            <a :href="$withBase(post.path)">
-              <img :src="$withBase(post.image)" />
-              <small>{{ post.title }}</small>
-            </a>
-          </slide>
-        </carousel>
+      <div class="site-slider-carousell" v-if="header.showCover">
+            <VueSlickCarousel v-bind="settings">
+              <div
+                  v-for="(post, index) in posts"
+                  :key="index"
+              >
+                <a :href="$withBase(post.path)">
+                  <img :src="$withBase(post.image)" />
+                  <small>{{ post.title }}</small>
+                </a>
+              </div>
+            </VueSlickCarousel>
       </div>
   </main>
 </template>
 
 <script>
   import { mapGetters } from 'vuex'
-  import {Carousel, Slide} from "vue-carousel";
+
+  import VueSlickCarousel from 'vue-slick-carousel'
+  import 'vue-slick-carousel/dist/vue-slick-carousel.css'
+  // optional style for arrows & dots
+  import 'vue-slick-carousel/dist/vue-slick-carousel-theme.css'
 
   export default {
     props: ["header"],
-    components: {Carousel, Slide},
-    computed: mapGetters(['posts'])
+    components: {VueSlickCarousel},
+    computed: mapGetters(['posts']),
+    data() {
+      return {
+        settings: {
+          "dots": false,
+          "infinite": true,
+          "speed": 300,
+          "slidesToShow": 3,
+          "slidesToScroll": 3,
+          "initialSlide": 3,
+          "swipeToSlide": true,
+          "fade": false,
+          "responsive": [
+            {
+              "breakpoint": 1024,
+              "settings": {
+                "slidesToShow": 3,
+                "slidesToScroll": 3,
+                "infinite": true,
+                "dots": false
+              }
+            },
+            {
+              "breakpoint": 768,
+              "settings": {
+                "slidesToShow": 2,
+                "slidesToScroll": 2,
+                "initialSlide": 2
+              }
+            },
+            {
+              "breakpoint": 480,
+              "settings": {
+                "slidesToShow": 1,
+                "slidesToScroll": 1
+              }
+            }
+          ]
+        }
+      }
+    },
   }
 </script>
 
