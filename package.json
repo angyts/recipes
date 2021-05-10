@@ -1,11 +1,25 @@
 {
-  "devDependencies": {
+"name": "januarythyn",
+"version": "1.0.0",
+"description": "Single Page Application website example. The website uses VuePress static site generator and the vue.js framework, developed by Evan You. VuePress is a brand new web development tool that singnificantly enhances and simplifies the SPA workflow. At the same time it provides a first-class user experience by developing an ultra-fast and extremely lightweight SPA website.",
+"license": "MIT",
+"main": "index.js",
+"scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev",
+    "docs:build": "vuepress build"
+},
+"repository": {
+    "type": "git",
+    "url": "git+https://github.com/punggolzenith/januarythyn.git"
+},
+"keywords": ["art"],
+"author": "Paul Ang",
+"bugs": {
+    "url": "https://github.com/punggolzenith/januarythyn/issues"
+},
+"homepage": "https://github.com/punggolzenith/januarythyn#readme",
+"devDependencies": {
     "vuepress": "^1.8.2"
-  },
-
-  "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
-    }
 }
-
+}
