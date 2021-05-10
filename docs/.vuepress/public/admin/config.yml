@@ -32,9 +32,8 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Image", name: "image", widget: "image"}
-      - {label: "Publish", name: "date", widget: "datetime"}
+      - {label: "Publish", name: "date", widget: "date"}
       - {label: "Tags", name: "tags", widget: "string"}
-      - {label: "Description", name: "description", widget: "string"}
       - {label: "Categories", name: "categories", widget: "list"}
       - {label: "Reading Time", name: "readingTime", widget: "string"}
 

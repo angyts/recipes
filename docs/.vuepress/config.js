@@ -1,7 +1,6 @@
 module.exports = {
     title: 'Teach Me VuePress',
     description: 'Lessons in Vue.js and VuePress',
-    theme: 'vuepress-theme-casper',
   head: [
     ['link', { rel: 'icon', href: '/img/uploads/nyan.jpg' }]
   ],
