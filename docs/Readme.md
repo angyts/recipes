@@ -1,5 +1,12 @@
 ---
+title: Blogging with VuePress
+lang: en-US
 home: true
+meta:
+  - name: description
+    content: hello
+  - name: keywords
+    content: super duper SEO
 heroText: Teach me Vuepress, and something!
 heroImage: https://vuepress.vuejs.org/hero.png
 actionText: Read more →

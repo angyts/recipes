@@ -3,7 +3,8 @@ backend:
   repo: punggolzenith/januarythyn
   branch: main
 media_folder: ".vuepress/public/img/uploads"
-public_folder: "/images/uploads"
+public_folder: "/img/uploads"
+publish_mode: editorial_workflow
 site_url: https://suspicious-visvesvaraya-5459d7.netlify.app/
 display_url: https://suspicious-visvesvaraya-5459d7.netlify.app/
 logo_url: https://your-site.com/images/logo.svg
