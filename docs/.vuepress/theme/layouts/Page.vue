@@ -30,8 +30,13 @@
 <script>
   import { mapGetters } from 'vuex'
   import { head, kebabCase } from 'lodash'
+  import VueCarousel from 'vue-carousel'
 
   export default {
+    components: {
+      'carousel': VueCarousel.Carousel,
+      'slide': VueCarousel.Slide
+    },
     computed: mapGetters(['current']),
     methods: {
       kebabCase
