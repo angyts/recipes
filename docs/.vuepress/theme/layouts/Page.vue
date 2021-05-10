@@ -10,6 +10,15 @@
           <img sizes="(max-width: 800px) 400px, (max-width: 1170px) 1170px, 2000px" :src="$withBase(current.image)" :alt="current.title" />
         </figure>
 
+        <carousel>
+          <slide>
+            Slide 1 Content
+          </slide>
+          <slide>
+            Slide 2 Content
+          </slide>
+        </carousel>
+
         <section class="post-full-content">
           <Content class="post-content" />
         </section>

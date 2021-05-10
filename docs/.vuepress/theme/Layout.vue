@@ -19,8 +19,10 @@ import SiteHeader from './partials/Header'
 import SiteFooter from './partials/Footer'
 import SiteNavigation from './partials/Navigation'
 
+import VueCarousel from 'vue-carousel'
+
 export default {
-  components: { Page, Posts, Post, SiteFooter, SiteHeader, SiteNavigation },
+  components: { Page, Posts, Post, SiteFooter, SiteHeader, SiteNavigation, VueCarousel},
   methods: {
     ...mapActions(['updateSite', 'updatePage', 'updateParams']),
       updateLayoutClass () {
