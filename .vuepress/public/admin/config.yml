@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: punggolzenith/januarythyn
-  branch: master
+  branch: main
 media_folder: ".vuepress/public/img/uploads"
 public_folder: "/images/uploads"
 site_url: https://suspicious-visvesvaraya-5459d7.netlify.app/
