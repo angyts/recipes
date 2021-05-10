@@ -1,9 +1,9 @@
 backend:
-  name: github
+  name: git-gateway
   repo: punggolzenith/januarythyn
   branch: master
-media_folder: ".vuepress/public/"
-public_folder: "../../"
+media_folder: ".vuepress/img/uploads"
+public_folder: ".vuepress/public"
 display_url: https://suspicious-visvesvaraya-5459d7.netlify.app/
 collections:
   - name: "doc" # Used in routes, e.g., /admin/collections/blog
