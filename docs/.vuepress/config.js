@@ -1,7 +1,7 @@
 module.exports = {
-    title: 'Teach Me VuePress',
+    title: 'January Thyn Art Portfolio',
     lang: 'en-US',
-    description: 'Lessons in Vue.js and VuePress',
+    description: 'January Thyn Art Portfolio',
   head: [
     ['link', { rel: 'icon', href: '/img/uploads/nyan.jpg' }],
   ],
@@ -33,21 +33,15 @@ module.exports = {
       link: '/posts'
     }, {
       text: 'Facebook',
-      link: 'https://facebook.com/'
+      link: 'https://www.facebook.com/chothyn.lay'
     }, {
-      text: 'Twitter',
-      link: 'https://twitter.com'
-    }, {
-      text: 'Github',
-      link: 'https://github.com/'
+      text: 'Instagram',
+      link: 'https://www.instagram.com/january_cho/'
     }],
     social: {
-      github: 'https://github.com',
       twitter: 'https://twitter.com',
-      facebook: 'https://facebook.com',
-      xing: 'https://xing.de',
-      instagram: 'https://instagram.com',
-      linkedin: 'https://linkedin.com'
+      facebook: 'https://www.facebook.com/chothyn.lay',
+      instagram: 'https://www.instagram.com/january_cho/',
     }
   }
 }
