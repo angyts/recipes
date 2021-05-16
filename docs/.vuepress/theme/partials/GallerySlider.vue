@@ -7,7 +7,7 @@
                   :key="index"
               >
                 <a :href="$withBase(post.path)">
-                  <img :src="$withBase(post.image)" />
+                  <img :src="$withBase(post.image)" height="300px" />
                   <small>{{ post.title }}</small>
                 </a>
               </div>
