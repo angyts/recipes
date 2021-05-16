@@ -10,4 +10,4 @@ categories:
   - art
 readingTime: 5 Minutes
 ---
-I've never been drawing pastels for a very long time . When my country was destroyed by Junta on Feb 1 2021 , I can't controlled but back to pastel drawing about the names of towns in myanmar . Burma is the former name of myanmar which i preferred to call most of the time.
+I've never been drawing pastels for a very long time . When my country was destroyed by Junta on Feb 1 2021 , I can't control but back to pastel drawing about the names of towns in myanmar . Burma is the former name of myanmar which i prefer to call most of the time.
