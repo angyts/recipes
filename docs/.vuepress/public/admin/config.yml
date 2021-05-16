@@ -8,8 +8,18 @@ site_url: https://www.januarythyn.art/
 display_url: https://www.januarythyn.art/
 logo_url: https://your-site.com/images/logo.svg
 collections:
+  - name: "pages"
+    label: "Pages"
+    files:
+      - label: "About Page"
+        name: "about"
+        file: "docs/about.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Type", name: "type", widget: "string", default: "page"}
+          - {label: "Body", name: "body", widget: "markdown"}
   - name: "posts" # Used in routes, e.g., /admin/collections/blog
-    label: "posts" # Used in the UI
+    label: "Posts" # Used in the UI
     folder: "docs/posts" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md

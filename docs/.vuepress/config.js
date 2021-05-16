@@ -21,7 +21,7 @@ module.exports = {
       text: 'Posts',
       link: '/posts'
     }, {
-      text: 'About me',
+      text: 'About',
       link: '/about.html'
     },
  //     {
