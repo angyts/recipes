@@ -1,5 +1,5 @@
 module.exports = {
-    title: 'January Thyn Art Portfolio',
+    title: "Jan&#39;s Corner",
     lang: 'en-US',
     description: 'January Thyn Art Portfolio',
   head: [
@@ -12,8 +12,8 @@ module.exports = {
     }
   },
   themeConfig: {
-    cover: '/img/uploads/nyan.jpg',
-    logo: '/img/uploads/nyan.jpg',
+    cover: '/img/uploads/img_8340.jpg',
+    logo: '/img/uploads/img_8340.jpg',
     nav: [{
       text: 'Home',
       link: '/'
@@ -21,11 +21,20 @@ module.exports = {
       text: 'Posts',
       link: '/posts'
     }, {
-      text: 'Category',
-      link: '/category/some-category'
-    }, {
-      text: 'Page',
-      link: '/a-page.html'
+      text: 'About me',
+      link: '/about.html'
+    },
+ //     {
+ //     text: 'Category',
+ //     link: '/category/some-category'
+ //   },
+      {
+      text: 'Shop',
+      link: '/shop.html'
+    },
+      {
+      text: 'Contact',
+      link: '/contact.html'
     }],
 
     footer: [{
