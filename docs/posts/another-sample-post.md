@@ -1,8 +1,9 @@
 ---
-title: I hate yogurt. It's just stuff with bits in.
-image: https://picsum.photos/1920/1080/?random&date=2018-06-06
+date: 2021-05-16T05:19:38.413Z
 publish: 2018-06-06
+title: Another sample posts
 type: post
+image: https://picsum.photos/1920/1080/?random&date=2018-06-06
 tags:
   - kill me
   - no violence
