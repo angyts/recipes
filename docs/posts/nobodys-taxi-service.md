@@ -1,14 +1,15 @@
 ---
-title: I'm nobody's taxi service
-image: https://picsum.photos/1920/1080/?random&date=2018-11-15
+date: 2021-05-16T01:45:04.350Z
 publish: 2018-11-15
-type: post
+title: I'm nobody's taxi service
 tags:
   - escaped fish
   - earthliens
+readingTime: 9 Minutes
+type: post
+image: /img/uploads/img_8419.jpg
 categories:
   - dexter
-readingTime: 9 Minutes
 ---
 
 The way I see it, every life is a pile of good things and bad things.…hey.…the good things don't always soften the bad things; but vice-versa the bad things don't necessarily spoil the good things and make them unimportant. Sorry, checking all the water in this area; there's an escaped fish.
