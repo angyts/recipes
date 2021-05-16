@@ -48,7 +48,7 @@ module.exports = {
       link: 'https://www.instagram.com/january_cho/'
     }],
     social: {
-      twitter: 'https://twitter.com',
+     // twitter: 'https://twitter.com',
       facebook: 'https://www.facebook.com/chothyn.lay',
       instagram: 'https://www.instagram.com/january_cho/',
     }
