@@ -4,9 +4,8 @@ backend:
   branch: main
 media_folder: "docs/.vuepress/public/img/uploads"
 public_folder: "/img/uploads"
-publish_mode: editorial_workflow
-site_url: https://suspicious-visvesvaraya-5459d7.netlify.app/
-display_url: https://suspicious-visvesvaraya-5459d7.netlify.app/
+site_url: https://www.januarythyn.art/
+display_url: https://www.januarythyn.art/
 logo_url: https://your-site.com/images/logo.svg
 collections:
   - name: "docs" # Used in routes, e.g., /admin/collections/blog
@@ -35,5 +34,3 @@ collections:
       - {label: "Publish", name: "date", widget: "datetime"}
       - {label: "Categories", name: "categories", widget: "list"}
       - {label: "Reading Time", name: "readingTime", widget: "string"}
-
-
