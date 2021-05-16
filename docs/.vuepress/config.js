@@ -1,7 +1,7 @@
 module.exports = {
-    title: "Jan&#39;s Corner",
+    title: "Jan's Corner",
     lang: 'en-US',
-    description: 'January Thyn Art Portfolio',
+    description: "Jan's Corner",
   head: [
     ['link', { rel: 'icon', href: '/img/uploads/nyan.jpg' }],
   ],
