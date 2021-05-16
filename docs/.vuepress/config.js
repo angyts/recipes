@@ -1,8 +1,9 @@
 module.exports = {
     title: 'Teach Me VuePress',
+    lang: 'en-US',
     description: 'Lessons in Vue.js and VuePress',
   head: [
-    ['link', { rel: 'icon', href: '/img/uploads/nyan.jpg' }]
+    ['link', { rel: 'icon', href: '/img/uploads/nyan.jpg' }],
   ],
   markdown: {
     anchor: {

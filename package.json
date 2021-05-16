@@ -25,7 +25,6 @@
         "vuepress": "^1.8.2"
     },
     "dependencies": {
-        "vue-carousel": "^0.18.0",
         "vue-no-ssr": "^1.1.1",
         "vue-slick-carousel": "^1.0.6",
         "vuepress-theme-casper": "^3.0.1"
