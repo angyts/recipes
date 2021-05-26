@@ -46,7 +46,12 @@ module.exports = {
     }, {
       text: 'Instagram',
       link: 'https://www.instagram.com/january_cho/'
-    }],
+    },
+      {
+        text:'Admin',
+        link: '/admin'
+      }
+    ],
     social: {
      // twitter: 'https://twitter.com',
       facebook: 'https://www.facebook.com/chothyn.lay',
