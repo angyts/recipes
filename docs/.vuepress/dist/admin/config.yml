@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: punggolzenith/januarythyn
+  repo: angyts/recipes
   branch: main
 media_folder: ".vuepress/public/img/uploads"
 public_folder: "/img/uploads"
@@ -16,12 +16,12 @@ collections:
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     show_preview_links: true
     fields: # The fields for each document, usually in front matter
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Description", name: "description", widget: "string"}
-      - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Featured Image", name: "image", widget: "image"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Categories", name: "categories", widget: "list"}
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Featured Image", name: "image", widget: "image" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Categories", name: "categories", widget: "list" }
   - name: "posts" # Used in routes, e.g., /admin/collections/blog
     label: "posts" # Used in the UI
     folder: "docs/posts" # The path to the folder where the documents are stored
@@ -29,12 +29,10 @@ collections:
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     show_preview_links: true
     fields: # The fields for each document, usually in front matter
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Image", name: "image", widget: "image"}
-      - {label: "Publish", name: "date", widget: "date"}
-      - {label: "Tags", name: "tags", widget: "string"}
-      - {label: "Categories", name: "categories", widget: "list"}
-      - {label: "Reading Time", name: "readingTime", widget: "string"}
-
-
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Image", name: "image", widget: "image" }
+      - { label: "Publish", name: "date", widget: "date" }
+      - { label: "Tags", name: "tags", widget: "string" }
+      - { label: "Categories", name: "categories", widget: "list" }
+      - { label: "Reading Time", name: "readingTime", widget: "string" }
