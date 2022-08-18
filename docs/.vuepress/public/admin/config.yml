@@ -1,11 +1,11 @@
 backend:
   name: github
-  repo: punggolzenith/januarythyn
+  repo: angyts/recipes
   branch: main
 media_folder: "docs/.vuepress/public/img/uploads"
 public_folder: "/img/uploads"
-site_url: https://www.januarythyn.art/
-display_url: https://www.januarythyn.art/
+site_url: https://recipes.punggolgp.com/
+display_url: https://recipes.punggolgp.com/
 logo_url: https://your-site.com/images/logo.svg
 collections:
   - name: "pages"
