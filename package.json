@@ -1,7 +1,7 @@
 {
-    "name": "januarythyn",
+    "name": "yourfatherrecipes",
     "version": "1.0.0",
-    "description": "Single Page Application website example. The website uses VuePress static site generator and the vue.js framework, developed by Evan You. VuePress is a brand new web development tool that singnificantly enhances and simplifies the SPA workflow. At the same time it provides a first-class user experience by developing an ultra-fast and extremely lightweight SPA website.",
+    "description": "Site to keep recipes built on Vuepress and Netlify CMS",
     "license": "MIT",
     "main": "index.js",
     "scripts": {
@@ -11,16 +11,16 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/punggolzenith/januarythyn.git"
+        "url": "git+https://github.com/angyts/recipes.git"
     },
     "keywords": [
         "art"
     ],
     "author": "Paul Ang",
     "bugs": {
-        "url": "https://github.com/punggolzenith/januarythyn/issues"
+        "url": "https://github.com/angyts/recipes/issues"
     },
-    "homepage": "https://github.com/punggolzenith/januarythyn#readme",
+    "homepage": "https://github.com/angyts/recipes#readme",
     "devDependencies": {
         "vuepress": "^1.8.2"
     },
