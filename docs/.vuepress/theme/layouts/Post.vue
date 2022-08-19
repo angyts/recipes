@@ -23,7 +23,7 @@
                   >
                   <span v-if="current.cookingTime" class="byline-reading-time"
                     ><span class="bull">&bull;</span>
-                    {{ current.cookingTime }}</span
+                    Estimated Cooking and Preparation Time: {{ current.cookingTime }}</span
                   >
                 </div>
               </section>
@@ -34,6 +34,13 @@
         <figure v-if="current.image" class="post-full-image">
           <img sizes="(max-width: 800px) 400px, (max-width: 1170px) 1170px, 2000px" :src="$withBase(current.image)" :alt="current.title" />
         </figure>
+        
+        <section class="post-full-content">
+          <span v-if="current.ingredients" 
+            ><span class="bull">&bull;</span>
+          {{ current.ingredients }}</span
+          >        
+        </section>
 
         <section class="post-full-content">
           <Content class="post-content" />

@@ -34,7 +34,7 @@ collections:
     fields: # The fields for each document, usually in front matter
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Type", name: "type", widget: "string", default: "post" }
-      - { label: "Ingredients", name: "ingredients", widget: "markdown", default: "|-
+      - { label: "Ingredients", name: "ingredients", widget: "markdown", default: "
   * Prawns, the fresher the better -- As needed
   * Sugar -- 1 tsp
   * Baking Soda -- 1/2 tsp
