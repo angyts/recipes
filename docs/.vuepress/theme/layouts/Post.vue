@@ -35,8 +35,8 @@
           <img sizes="(max-width: 800px) 400px, (max-width: 1170px) 1170px, 2000px" :src="$withBase(current.image)" :alt="current.title" />
         </figure>
         
-        <section class="post-full-content">
-<Ingredients class="post-content" />
+        <section v-if="current.ingredients" class="post-full-content">
+          {{ current.ingredients }}
         </section>
 
         <section class="post-full-content">
