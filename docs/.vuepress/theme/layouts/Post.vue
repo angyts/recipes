@@ -36,7 +36,7 @@
         </figure>
         
         <section class="post-full-content" style="padding: 0 170px 0vw !important;">
-        <h2>Ingredients List:</h2><br></br>
+        <h2>Ingredients List:</h2>
          <Content slot-key="ingredients"/>
         </section>
         <hr></hr>
