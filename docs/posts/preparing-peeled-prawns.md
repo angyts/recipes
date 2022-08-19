@@ -16,6 +16,14 @@ categories:
   - food
 cookingTime: 30 Minutes
 ---
+::: slot ingredients
+  * Prawns, the fresher the better -- As needed
+  * Sugar -- 1 tsp
+  * Baking Soda -- 1/2 tsp
+  * (Ice -- Optional)
+  * Fridge
+:::
+
 Use this method to prepare prawns for frying or for other cooking.
 
 <!-- more -->
