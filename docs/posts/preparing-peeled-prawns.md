@@ -1,12 +1,7 @@
 ---
 title: Preparing Peeled Prawns
 type: post
-ingredients: |-
-  * Prawns, the fresher the better -- As needed
-  * Sugar -- 1 tsp
-  * Baking Soda -- 1/2 tsp
-  * (Ice -- Optional)
-  * Fridge
+ingredients: .
 image: /img/uploads/default_food.jpeg
 date: 2022-08-19T15:11:47.298Z
 tags:
@@ -24,6 +19,10 @@ cookingTime: 30 Minutes
   * Fridge
 :::
 
+
+::: slot default
+# Here might be a page title
+
 Use this method to prepare prawns for frying or for other cooking.
 
 <!-- more -->
@@ -35,3 +34,4 @@ Use this method to prepare prawns for frying or for other cooking.
 5. Put in fridge for 30 mins.
 6. 1/2 fry it, so that it is just a little orange. 
 7. Take it up then add to other ingredients as needed, for example into the fried rice.
+:::
