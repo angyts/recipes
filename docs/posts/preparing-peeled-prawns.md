@@ -10,15 +10,6 @@ categories:
   - food
 cookingTime: 30 Minutes
 ---
-::: slot ingredients
-  * Prawns, the fresher the better -- As needed
-  * Sugar -- 1 tsp
-  * Baking Soda -- 1/2 tsp
-  * (Ice -- Optional)
-  * Fridge
-:::
-
-
 ::: slot default
 Use this method to prepare prawns for frying or for other cooking.
 
@@ -31,4 +22,12 @@ Use this method to prepare prawns for frying or for other cooking.
 5. Put in fridge for 30 mins.
 6. 1/2 fry it, so that it is just a little orange. 
 7. Take it up then add to other ingredients as needed, for example into the fried rice.
+:::
+
+::: slot ingredients
+  * Prawns, the fresher the better -- As needed
+  * Sugar -- 1 tsp
+  * Baking Soda -- 1/2 tsp
+  * (Ice -- Optional)
+  * Fridge
 :::
