@@ -35,12 +35,12 @@
           <img sizes="(max-width: 800px) 400px, (max-width: 1170px) 1170px, 2000px" :src="$withBase(current.image)" :alt="current.title" />
         </figure>
         
-        <section v-if="current.ingredients" class="post-full-content">
+        <section class="post-full-content">
          <Content slot-key="ingredients"/>
         </section>
 
         <section class="post-full-content">
-          <Content class="post-content" />
+          <Content class="post-content" slot-key="default"/>
         </section>
       </article>
     </div>

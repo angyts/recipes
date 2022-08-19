@@ -1,7 +1,6 @@
 ---
 title: Preparing Peeled Prawns
 type: post
-ingredients: .
 image: /img/uploads/default_food.jpeg
 date: 2022-08-19T15:11:47.298Z
 tags:
@@ -21,8 +20,6 @@ cookingTime: 30 Minutes
 
 
 ::: slot default
-# Here might be a page title
-
 Use this method to prepare prawns for frying or for other cooking.
 
 <!-- more -->
