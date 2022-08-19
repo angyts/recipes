@@ -19,7 +19,7 @@ module.exports = {
       link: '/'
     }, {
       text: 'Food',
-      link: '/food'
+      link: '/posts'
     }, {
       text: 'About',
       link: '/about.html'
