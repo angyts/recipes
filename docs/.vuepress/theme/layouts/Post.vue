@@ -36,10 +36,7 @@
         </figure>
         
         <section class="post-full-content">
-          <span v-if="current.ingredients" 
-            ><span class="bull">&bull;</span>
-          {{ current.ingredients }}</span
-          >        
+<Ingredients class="post-content" />
         </section>
 
         <section class="post-full-content">
