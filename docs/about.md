@@ -7,3 +7,10 @@ This is an example implementation of [Casper](https://demo.ghost.io) (the defaul
 
 > To use this theme with [Vuepress](https://vuepress.vuejs.org/) please have a look at the [Github Repository](https://github.com/alexander-heimbuch/vuepress-theme-casper). If you find bugs or want to propose changes please create an issue.
 
+## Video Example
+
+<video src="http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4" controls></video>
+
+```javascript
+  <h1>Hello World</h1>
+```

@@ -21,9 +21,9 @@
                     :datetime="datetime"
                     >{{ localeDate }}</time
                   >
-                  <span v-if="current.readingTime" class="byline-reading-time"
+                  <span v-if="current.cookingTime" class="byline-reading-time"
                     ><span class="bull">&bull;</span>
-                    {{ current.readingTime }}</span
+                    {{ current.cookingTime }}</span
                   >
                 </div>
               </section>
