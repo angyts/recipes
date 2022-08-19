@@ -36,8 +36,10 @@
         </figure>
         
         <section class="post-full-content">
+        <h2>Ingredients List:</h2><br></br>
          <Content slot-key="ingredients"/>
         </section>
+        <hr></hr>
 
         <section class="post-full-content">
           <Content class="post-content" slot-key="default"/>
