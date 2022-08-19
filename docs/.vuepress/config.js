@@ -18,8 +18,8 @@ module.exports = {
       text: 'Home',
       link: '/'
     }, {
-      text: 'Posts',
-      link: '/posts'
+      text: 'Food',
+      link: '/food'
     }, {
       text: 'About',
       link: '/about.html'
@@ -39,7 +39,7 @@ module.exports = {
 
     footer: [{
       text: 'Latest Posts',
-      link: '/posts'
+      link: '/food'
     }, {
       text: 'Facebook',
       link: 'https://www.facebook.com/chothyn.lay'

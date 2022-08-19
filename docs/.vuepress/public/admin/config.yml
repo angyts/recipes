@@ -15,35 +15,35 @@ collections:
         name: "about"
         file: "docs/about.md"
         fields:
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Type", name: "type", widget: "string", default: "page"}
-          - {label: "Body", name: "body", widget: "markdown"}
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Type", name: "type", widget: "string", default: "page" }
+          - { label: "Body", name: "body", widget: "markdown" }
       - label: "Shop"
         name: "shop"
         file: "docs/shop.md"
         fields:
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Type", name: "type", widget: "string", default: "page"}
-          - {label: "Body", name: "body", widget: "markdown"}
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Type", name: "type", widget: "string", default: "page" }
+          - { label: "Body", name: "body", widget: "markdown" }
       - label: "Contact Me"
         name: "contact"
         file: "docs/contact.md"
         fields:
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Type", name: "type", widget: "string", default: "page"}
-          - {label: "Body", name: "body", widget: "markdown"}
-  - name: "posts" # Used in routes, e.g., /admin/collections/blog
-    label: "Posts" # Used in the UI
-    folder: "docs/posts" # The path to the folder where the documents are stored
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Type", name: "type", widget: "string", default: "page" }
+          - { label: "Body", name: "body", widget: "markdown" }
+  - name: "food" # Used in routes, e.g., /admin/collections/blog
+    label: "Food" # Used in the UI
+    folder: "docs/food" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     show_preview_links: true
     fields: # The fields for each document, usually in front matter
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Type", name: "type", widget: "string", default: "post"}
-      - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Image", name: "image", widget: "image"}
-      - {label: "Publish", name: "date", widget: "date"}
-      - {label: "Tags", name: "tags", widget: "list"}
-      - {label: "Categories", name: "categories", widget: "list"}
-      - {label: "Reading Time", name: "readingTime", widget: "string"}
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Type", name: "type", widget: "string", default: "post" }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Image", name: "image", widget: "image" }
+      - { label: "Publish", name: "date", widget: "date" }
+      - { label: "Tags", name: "tags", widget: "list" }
+      - { label: "Categories", name: "categories", widget: "list" }
+      - { label: "Reading Time", name: "readingTime", widget: "string" }
