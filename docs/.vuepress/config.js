@@ -1,7 +1,7 @@
 module.exports = {
-    title: "Jan's Corner",
+    title: "Your Father's Recipes",
     lang: 'en-US',
-    description: "Jan's Corner",
+    description: "This is where your father keep your Father's Recipes",
   head: [
     ['link', { rel: 'icon', href: '/img/uploads/nyan.jpg' }],
   ],
