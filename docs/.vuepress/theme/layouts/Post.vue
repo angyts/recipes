@@ -36,7 +36,7 @@
         </figure>
         
         <section v-if="current.ingredients" class="post-full-content">
-          {{ current.ingredients }}
+         <Content slot-key="ingredients"/>
         </section>
 
         <section class="post-full-content">
