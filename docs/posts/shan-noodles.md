@@ -21,7 +21,7 @@ This is a super complicated Myanmar Shan Noodles, made by the northern folks.
 2. Prepare all the things in the sauce and place each part on its own bowl.
 3. Prepare the meat -- base and minced / blend them.
 4. Fry the base with some oil and make them smell nice, I think it takes about 15 minutes in medium fire.
-5. Add in the chopped tomatoes.
+5. Add in the chopped tomatoes, cook till soft.
 6. Add in the pork that has been marinated.
 7. Add 1 tsp of sugar and some hot water till it is all submerged and cook under medium heat for 10mins.
 8. In the mean time, start some boiling water, put in a bit of salt, maybe 1 tsp for 1 litres. Then when it is boiled, boil the Bok Choy till its is soft and take out.
