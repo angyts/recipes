@@ -1,9 +1,11 @@
 ---
-title: About
+title: Contact Me
 type: page
 ---
+Contact me?
 
-This is an example implementation of [Casper](https://demo.ghost.io) (the default theme for [Ghost](https://ghost.org/de/)) in [Vuepress](https://vuepress.vuejs.org/). Content is generated with [fillerama](http://fillerama.io/), images by [picsum](https://picsum.photos).
+Actually don’t contact me.
 
-> To use this theme with [Vuepress](https://vuepress.vuejs.org/) please have a look at the [Github Repository](https://github.com/alexander-heimbuch/vuepress-theme-casper). If you find bugs or want to propose changes please create an issue.
+I probably won’t respond. I still have quite some notifications on every single app waiting for me to see while I’m cooking. 
 
+But if you really want, maybe you can leave [something here](https://github.com/angyts/recipes/issues), click on open an issue if you really want.
