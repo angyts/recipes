@@ -6,8 +6,10 @@ date: 2022-08-20T12:45:42.683Z
 tags:
   - Your Father's Recipes
   - food
+  - chili
 categories:
   - food
+  - chili
 cookingTime: 80 Minutes
 ---
 ::: slot default
