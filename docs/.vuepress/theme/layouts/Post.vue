@@ -35,7 +35,7 @@
           <img sizes="(max-width: 800px) 400px, (max-width: 1170px) 1170px, 2000px" :src="$withBase(current.image)" :alt="current.title" />
         </figure>
         
-        <section class="post-full-content" style="padding: 0 170px 0vw !important;">
+        <section class="post-full-content" style="padding-bottom: 0vw !important;">
         <h2>Ingredients List:</h2>
          <Content slot-key="ingredients"/>
         </section>
