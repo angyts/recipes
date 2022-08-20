@@ -12,7 +12,7 @@ module.exports = {
     }
   },
   themeConfig: {
-    cover: '/img/uploads/cooking.jpg',
+    cover: '/img/uploads/cooking.jpeg',
     logo: '/img/uploads/wok.png',
     nav: [{
       text: 'Home',

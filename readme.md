@@ -3,8 +3,8 @@
 ## Software Architecture
 
 - `Github` as the repo and single source of truth and media uploads.
-- `Netlify CMS` as an easy content manager.
-- `Vuepress` as front end and static site generator.
+- [Netlify CMS](https://www.netlifycms.org/docs/widgets/) as an easy content manager.
+- [Vuepress](https://vuepress.vuejs.org/guide/markdown-slot.html#named-slots) as front end and static site generator.
 - `vuepress-theme-casper` is the theme to generate the look.
 
 ## How it works
@@ -23,3 +23,7 @@ Other important theme files to decide how the [frontpage looks](/docs/.vuepress/
 
 You need to have `push` permissions to this particular github repo to be able to access the backend.
 
+## Additional Stuff
+
+Media from pixabay.com
+Icons from flaticon.com
