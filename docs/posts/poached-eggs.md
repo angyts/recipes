@@ -18,7 +18,7 @@ That soft and nice eggs.
 2. Boil a pot of water, must be a little deep. When it is not boiling hard.
 3. Add 1 tbsp of vinegar.
 4. Swirl the water and put the eggs in the centre.
-5. Cook for 2 minutes.
+5. Cook for 1 minute 50 seconds.
 6. (If going to store for some time: add to ice cold water, then put in fridge)
 7. (Reheat by putting in boiling water for 30s)
 
