@@ -28,6 +28,8 @@ These are mini tiny crispy super nice chocolately cookies.
 7. Need to watch very very closely. They burn very easily.
 8. When I cook 3 trays together they can take about 7-8 minutes.
 9. Sometimes when the oven is very hot and only one tray, it can take only 5 minutes.
+10. Cook until the edges are a little browned.
+11. Remove from Oven and put to cool for 3 mins before storing them, if there are still leftovers from children eating them straight away.
 
 Reference: https://www.yummly.com/recipe/Tiny-Crispy-Crunchy-Chocolate-Chip-Cookies-2368525?prm-v1#directions
 :::
