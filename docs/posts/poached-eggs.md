@@ -22,7 +22,7 @@ That soft and nice eggs.
 6. (If going to store for some time: add to ice cold water, then put in fridge)
 7. (Reheat by putting in boiling water for 30s)
 
-<video src="https://youtu.be/yifZtA3uF-E" controls></video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yifZtA3uF-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 :::
 
 ::: slot ingredients
