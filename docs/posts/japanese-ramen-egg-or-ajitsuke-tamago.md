@@ -10,7 +10,7 @@ tags:
 categories:
   - food
   - japanese
-cookingTime: 10 Minutes
+cookingTime: 15 Minutes
 ---
 ::: slot default
 Those nice fresh ramen eggs that is soft inside.
