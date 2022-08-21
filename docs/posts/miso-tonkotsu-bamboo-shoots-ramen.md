@@ -28,6 +28,11 @@ Japanese Ramen or Soup Noodles.
 9. Add the soup to the freshly cooked noodles in a large serving bowl. Add the pork ribs and bamboo shoots to the side. 
 10. (Optional: Add [Ramen Eggs](https://recipes.punggolgp.com/posts/japanese-ramen-egg-or-ajitsuke-tamago.html) or [Poached Eggs](https://recipes.punggolgp.com/posts/poached-eggs.html), nori/seaweed, frozen/canned corn, green onion, spring onions, shiraga negi <- children hate this.)
 
+Notes: 
+It is much better to cook from scratch, the stock base has way too much MSG already baked inside it.
+
+![stock tonkotsu](/img/uploads/edd6972c-c98e-48fe-a0f6-af67934317c2.jpeg "stock tonkotsu")
+
 Reference: https://www.justonecookbook.com/homemade-chashu-miso-ramen/
     :::
 
@@ -42,7 +47,7 @@ Reference: https://www.justonecookbook.com/homemade-chashu-miso-ramen/
   * White Sesame Seeds mostly ground, leave some unground for texture (I used black ones)
   * Sesame Oil -- 2 tbsp
   * Spicy Bean Paste -- 2 tsp
-![Chili bean sauce](/img/uploads/02045cba-6ec8-4534-84cb-371a292c04de.jpeg "Chili bean sauce")
+    ![Chili bean sauce](/img/uploads/02045cba-6ec8-4534-84cb-371a292c04de.jpeg "Chili bean sauce")
   * (minced meat -- Optional)
   * Sugar -- 1 tbsp
   * Miso -- 3 large soup spoon
@@ -50,9 +55,10 @@ Reference: https://www.justonecookbook.com/homemade-chashu-miso-ramen/
   * Chicken Stock -- 8 cups
   * White pepper powder -- 1 tsp
   * Dashi Tsuyu -- 3 tbsp
-![Ago Dashi Tsuyu](/img/uploads/3da90498-cac7-4c40-ad33-cfafa22da8de.jpeg "Ago Dashi Tsuyu")
+    ![Ago Dashi Tsuyu](/img/uploads/3da90498-cac7-4c40-ad33-cfafa22da8de.jpeg "Ago Dashi Tsuyu")
 * Ramen Noodles
 * Optional Toppings
+
   * [Ramen Eggs](https://recipes.punggolgp.com/posts/japanese-ramen-egg-or-ajitsuke-tamago.html) 
   * [Poached Eggs](https://recipes.punggolgp.com/posts/poached-eggs.html)
   * nori/seaweed
@@ -60,4 +66,4 @@ Reference: https://www.justonecookbook.com/homemade-chashu-miso-ramen/
   * green onion 
   * spring onions
   * shiraga negi <- children hate this
-  :::
+    :::
