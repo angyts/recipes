@@ -6,12 +6,14 @@ date: 2022-08-21T05:41:14.844Z
 tags:
   - Your Father's Recipes
   - food
+  - Japanese
+  - ramen
 categories:
   - food
-cookingTime: 10 Minutes
+  - ramen
+  - japanese
+cookingTime: 150 Minutes
 ---
-![]()
-
 ::: slot default
 Japanese Ramen or Soup Noodles. 
 
@@ -34,7 +36,7 @@ It is much better to cook from scratch, the stock base has way too much MSG alre
 ![stock tonkotsu](/img/uploads/edd6972c-c98e-48fe-a0f6-af67934317c2.jpeg "stock tonkotsu")
 
 Reference: https://www.justonecookbook.com/homemade-chashu-miso-ramen/
-    :::
+:::
 
 ::: slot ingredients
 
@@ -58,7 +60,6 @@ Reference: https://www.justonecookbook.com/homemade-chashu-miso-ramen/
     ![Ago Dashi Tsuyu](/img/uploads/3da90498-cac7-4c40-ad33-cfafa22da8de.jpeg "Ago Dashi Tsuyu")
 * Ramen Noodles
 * Optional Toppings
-
   * [Ramen Eggs](https://recipes.punggolgp.com/posts/japanese-ramen-egg-or-ajitsuke-tamago.html) 
   * [Poached Eggs](https://recipes.punggolgp.com/posts/poached-eggs.html)
   * nori/seaweed
@@ -66,4 +67,4 @@ Reference: https://www.justonecookbook.com/homemade-chashu-miso-ramen/
   * green onion 
   * spring onions
   * shiraga negi <- children hate this
-    :::
+:::
