@@ -22,7 +22,7 @@ Crave that Qiu Lian Ban Mian that no longer exists?
 3. Use the pizza cutter to slice out small pieces about a large fishball size.
 4. Use the rolling pin to completely flatten it.
 5. Cut it to the size that you want with the pizza cutter. Add some flour so that the noodles don't stick to one another.
-6. Salt the water and bring it to boil. Cook for 2 to 7 minutes depending on how soft you want it.
+6. Salt the water and bring it to boil. Cook for 2 to 7 minutes depending on how soft you want it. (Original recipe puts the oil inside the pot)
 7. (For storage, can put a lot of flour and put in a broad container and can keep in fridge or freezer)
 
 Reference: https://www.tasteofhome.com/recipes/homemade-noodles/
