@@ -1,5 +1,5 @@
 ---
-title: Pan Mee or Ban Mian or Hand Sliced Noodles or Home made noodles
+title: Ban Mian or Hand Sliced Noodles
 type: post
 image: /img/uploads/default_food.jpeg
 date: 2022-08-22T15:05:40.088Z
