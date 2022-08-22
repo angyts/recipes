@@ -8,7 +8,7 @@ tags:
   - food
 categories:
   - food
-cookingTime: 10 Minutes
+cookingTime: 60 Minutes
 ---
 ::: slot default
 Nice tasty ban mee dry.
