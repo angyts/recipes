@@ -24,6 +24,7 @@ Crave that Qiu Lian Ban Mian that no longer exists?
 5. Cut it to the size that you want with the pizza cutter. Add some flour so that the noodles don't stick to one another.
 6. Salt the water and bring it to boil. Cook for 2 to 7 minutes depending on how soft you want it. (Original recipe puts the oil inside the pot)
 7. (For storage, can put a lot of flour and put in a broad container and can keep in fridge or freezer)
+8. Use it to cook [Chili Ban Mee](/posts/kl-chili-ban-mee.html)
 
 Reference: https://www.tasteofhome.com/recipes/homemade-noodles/
 :::
