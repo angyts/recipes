@@ -3,6 +3,7 @@
     <site-header :blog="blog" :header="header">
       <site-navigation slot="header"></site-navigation>
     </site-header>
+    <gallery-slider :header="header"></gallery-slider>
     <component :is="content"></component>
     <site-footer />
   </div>
