@@ -47,16 +47,16 @@
         </section>
 
         <section class="post-full-tags" v-if="primaryTag">
-          <p>Tags:    </p>
+          <p>Tags:</p>&ensp;
           <p v-for="(tag, index) in this.current.tags" :key="index" >
-            <a :href="$withBase(`/tags/${tag}`)"> {{ tag }}</a>   |   
+            <a :href="$withBase(`/tags/${tag}`)">{{ tag }}</a>&ensp;|&ensp;   
           </p>
         </section>
 
         <section class="post-full-tags" v-if="primaryCategories">
-          <p>Categories:    </p>
+          <p>Categories:</p>&ensp;
           <p v-for="(tag, index) in this.current.categories" :key="index" >
-            <a :href="$withBase(`/category/${tag}`)"> {{ tag }}</a>   |   
+            <a :href="$withBase(`/category/${tag}`)">{{ tag }}</a>&ensp;|&ensp;   
           </p>
         </section>        
       </article>
