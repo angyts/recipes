@@ -1,5 +1,5 @@
 ---
-title: Pizza Base
+title: Standard Pizza Base
 type: post
 image: /img/uploads/default_food.jpeg
 date: 2022-08-21T14:43:38.193Z
