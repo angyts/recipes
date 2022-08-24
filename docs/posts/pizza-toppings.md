@@ -17,17 +17,18 @@ cookingTime: 60 Minutes
 ::: slot default
 Get some ideas for pizza toppings.
 <!-- more -->
-1. Peel the prawns.
-2. Slit the back and the front to remove the black stuff.
-3. Put in a little bowl with the prawns and add the sugar and baking soda.
-4. Put some ice.
-5. Put in fridge for 30 mins.
-6. 1/2 fry it, so that it is just a little orange.
-7. Take it up then add to other ingredients as needed, for example into the fried rice.
+### Hawaiian
+#### Ingredients: Mozzarella, ham, pineapple
+1. Chop fresh pineapple into small cubes.
+2. Boil with one tablespoon of sugar with a little water just enough to cover. Boil till soft.
+
+### Pepperoni
+#### Ingredients: Mozzarella, pepperoni
 
 Reference: 
 https://www.recipetineats.com/pizza-toppings/
 :::
 
 ::: slot ingredients
+- See Below
 :::
