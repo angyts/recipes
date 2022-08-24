@@ -47,11 +47,18 @@
         </section>
 
         <section class="post-full-tags" v-if="primaryTag">
-          <p>Tags:  </p>
-          <span v-for="(tag, index) in this.current.tags" :key="index" >
-            <a :href="$withBase(`/tags/${tag}`)">{{ tag }}</a> <p> | </p>
-          </span>
+          <p>Tags:    </p>
+          <p v-for="(tag, index) in this.current.tags" :key="index" >
+            <a :href="$withBase(`/tags/${tag}`)">{{ tag }}</a>   |   
+          </p>
         </section>
+
+        <section class="post-full-tags" v-if="primaryCategories">
+          <p>Categories:    </p>
+          <p v-for="(tag, index) in this.current.categories" :key="index" >
+            <a :href="$withBase(`/tags/${tag}`)">{{ tag }}</a>   |   
+          </p>
+        </section>        
       </article>
     </div>
   </main>
@@ -85,6 +92,14 @@ export default {
       }
 
       return head(this.current.tags);
+    },
+
+    primaryCategories(){
+      if (!this.current.categories || this.current.categories.length === 0){
+        return null;
+      }
+
+      return head(this.current.categories);
     },
 
     backgroundImage() {
