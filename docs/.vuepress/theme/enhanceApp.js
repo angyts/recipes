@@ -9,7 +9,7 @@ import Layout from './Layout'
 export default ({
   Vue,
   options,
-  router
+  router,
 }) => {
   Vue.use(Vuex)
 
