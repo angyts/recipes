@@ -49,14 +49,14 @@
         <section class="post-full-tags" v-if="primaryTag">
           <p>Tags:    </p>
           <p v-for="(tag, index) in this.current.tags" :key="index" >
-            <a :href="$withBase(`/tags/${tag}`)">{{ tag }}</a>   |   
+            <a :href="$withBase(`/tags/${tag}`)"> {{ tag }}</a>   |   
           </p>
         </section>
 
         <section class="post-full-tags" v-if="primaryCategories">
           <p>Categories:    </p>
           <p v-for="(tag, index) in this.current.categories" :key="index" >
-            <a :href="$withBase(`/tags/${tag}`)">{{ tag }}</a>   |   
+            <a :href="$withBase(`/category/${tag}`)"> {{ tag }}</a>   |   
           </p>
         </section>        
       </article>
