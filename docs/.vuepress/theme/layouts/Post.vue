@@ -45,6 +45,13 @@
         <h2>Steps:</h2>
           <Content class="post-content" slot-key="default"/>
         </section>
+
+        <section class="post-full-tags" v-if="primaryTag">
+          <p>Tags:  </p>
+          <span v-for="(tag, index) in this.current.tags" :key="index" >
+            <a :href="$withBase(`/tags/${tag}`)">{{ tag }}</a> <p> | </p>
+          </span>
+        </section>
       </article>
     </div>
   </main>
