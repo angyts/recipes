@@ -3,7 +3,6 @@
     <site-header :blog="blog" :header="header">
       <site-navigation slot="header"></site-navigation>
     </site-header>
-    <gallery-slider :header="header"></gallery-slider>
     <component :is="content"></component>
     <site-footer />
   </div>
@@ -17,12 +16,11 @@ import Page from './layouts/Page'
 import Posts from './layouts/Posts'
 
 import SiteHeader from './partials/Header'
-import GallerySlider from './partials/GallerySlider'
 import SiteFooter from './partials/Footer'
 import SiteNavigation from './partials/Navigation'
 
 export default {
-  components: {GallerySlider, Page, Posts, Post, SiteFooter, SiteHeader, SiteNavigation},
+  components: {Page, Posts, Post, SiteFooter, SiteHeader, SiteNavigation},
   methods: {
     ...mapActions(['updateSite', 'updatePage', 'updateParams']),
       updateLayoutClass () {

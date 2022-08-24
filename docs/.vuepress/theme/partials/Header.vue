@@ -86,11 +86,4 @@ export default {
   }
 };
 
-const buildSlideMarkup = (count) => {
-	let slideMarkup = '';
-  for (var i = 1; i <= count; i++) {
-  	slideMarkup += '<slide><span class="label">' + i + '</span></slide>'
-  }
-  return slideMarkup;
-};
 </script>
