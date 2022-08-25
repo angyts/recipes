@@ -26,7 +26,7 @@ For that super crispy and nice special pizza base they sell at restaurants.
 7. Before using, bring it out and let it relax at room temperature 1 hour. Preheat oven at 280 degrees celsius.
 8. When ready, transfer one dough to floured surface, turning to gently coat in floor. Pat centre of dough gently with fingertips.
 9. Lift the dough over both knuckles and roll under the centre of dough, working outwards. Leave a thicker crust at the edge. Make about 10 to 12 inch pizza. Make it slightly bigger as it will shrink.
-10. Apply layer of [red base](/posts/tomato-sauce-or-pasta-alla-pamarola.html) or [/posts/white base](white-pizza-sauce.html). [Top the pizza](/posts/pizza-toppings.html) and put in pizza stone and bake for 8-10 mins or until crust is golden brown.
+10. Apply layer of [red base](/posts/tomato-sauce-or-pasta-alla-pamarola.html) or [white base](white-pizza-sauce.html). [Top the pizza](/posts/pizza-toppings.html) and put in pizza stone and bake for 8-10 mins or until crust is golden brown.
 
 Reference: https://natashaskitchen.com/pizza-dough-recipe/
 
