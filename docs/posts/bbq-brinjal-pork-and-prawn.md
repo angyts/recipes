@@ -28,7 +28,7 @@ There are quite a lot of steps to this dish, but once you get the hang of it, it
 ![Shred brinjal](/img/uploads/shred_brinjal.gif "Shred Brinjal")
 5. Put at least 7 tbsp of oil and start a medium high fire in a wok or frying pan. It's a Myanmar dish, it probably works with with even more oil. At the same time, preheat the oven to 220 deg celsius.
 6. Fry the onions till it is a little brown and smells nice.
-7. Fry the minced garlic for 20 seconds.
+7. Fry the minced garlic until golden brown about 10 seconds.
 8. Put in the pork and fry until it is all cooked and tender, about 3-5 mins.
 9. Put in the prawn and fry till it is orange, about 1-2 mins.
 10. Put in the brinjal and fry until the whole thing is a big ball, and oil starts to sizzle. It should also become rather dry and sticky.
