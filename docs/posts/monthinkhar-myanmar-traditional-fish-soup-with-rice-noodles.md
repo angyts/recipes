@@ -6,9 +6,16 @@ date: 2022-08-28T14:28:47.292Z
 tags:
   - Your Father's Recipes
   - food
+  - myanmar
+  - noodles
+  - traditional
+  - Monthinkhar
 categories:
   - food
-cookingTime: 10 Minutes
+  - myanmar
+  - noodles
+  - soup
+cookingTime: 120 Minutes
 ---
 ::: slot default
 This is a "simplified" version of the Myanmar most traditional dish. Imagine the "full" version.
