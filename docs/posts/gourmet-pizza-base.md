@@ -1,7 +1,7 @@
 ---
 title: Gourmet Pizza Base
 type: post
-image: /img/uploads/default_food.jpeg
+image: /img/uploads/dough.jpg
 date: 2022-08-24T14:52:35.023Z
 tags:
   - Your Father's Recipes
