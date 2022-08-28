@@ -1,7 +1,7 @@
 ---
 title: Standard Pizza Base
 type: post
-image: /img/uploads/default_food.jpeg
+image: /img/uploads/dough.jpg
 date: 2022-08-21T14:43:38.193Z
 tags:
   - Your Father's Recipes
