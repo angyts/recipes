@@ -22,15 +22,17 @@ For that super crispy and nice special pizza base they sell at restaurants.
 3. Cover with plastic till airtight. Leave it at room temperature and watch it grow. About double the size, or up to you. Takes about 4-5 hours.
 4. Transfer to floured surface, coat lightly in flour. Divide in half or the size you want. 
 5. Fold it in half 8 times, like closing a book then rotate then repeat. At the last fold, close all the seams and leave on table on that folded side. 
-6. Form into a ball in hands and put in a lightly oiled bowl, cover and refrigerate 18 hours up to a week. 
+6. Form into a ball in hands and put in a lightly oiled bowl, cover tightly and refrigerate 18 hours up to a week. 
 7. Before using, bring it out and let it relax at room temperature 1 hour. Preheat oven at 280 degrees celsius.
 8. When ready, transfer one dough to floured surface, turning to gently coat in floor. Pat centre of dough gently with fingertips.
-9. Lift the dough over both knuckles and roll under the centre of dough, working outwards. Leave a thicker crust at the edge. Make about 10 to 12 inch pizza. Make it slightly bigger as it will shrink.
+9. Lift the dough over both knuckles and roll under the centre of dough, working outwards. Leave a thicker crust at the edge. Make about 10 to 12 inch pizza. Make it slightly bigger as it will shrink. Brush a layer of olive oil or garlic oil on the crust to reduce drying out.
 10. Apply layer of [red base](/posts/tomato-sauce-or-pasta-alla-pamarola.html) or [white base](white-pizza-sauce.html). [Top the pizza](/posts/pizza-toppings.html) and put in pizza stone and bake for 8-10 mins at 280 deg C or until crust is golden brown.
 
 Reference: https://natashaskitchen.com/pizza-dough-recipe/
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WM1XcYXix0Y?start=176" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Notes: The crust can become very very hard if a) it is overcooked b) too much water has escaped from the dough because it was not kept airtight. c) forgot to apply some olive oil at the crust.
 :::
 
 ::: slot ingredients
