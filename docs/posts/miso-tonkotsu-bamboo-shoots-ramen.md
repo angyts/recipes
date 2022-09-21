@@ -46,8 +46,8 @@ Reference: https://www.justonecookbook.com/homemade-chashu-miso-ramen/
   * Garlic minced -- 4 Cloves
   * Onion minced -- 2 Large
   * Ginger minced -- 1 Knob
-  * White Sesame Seeds mostly ground, leave some unground for texture (I used black ones)
-  * Sesame Oil -- 2 tbsp
+  * White Sesame Seeds mostly ground, leave some unground for texture (I used black ones) -- 4 tbsp
+  * Sesame Oil -- 4 tbsp
   * Spicy Bean Paste -- 2 tsp
     ![Chili bean sauce](/img/uploads/02045cba-6ec8-4534-84cb-371a292c04de.jpeg "Chili bean sauce")
   * (minced meat -- Optional)
@@ -55,7 +55,7 @@ Reference: https://www.justonecookbook.com/homemade-chashu-miso-ramen/
   * Miso -- 3 large soup spoon
   * Sake -- 1 tbsp
   * Chicken Stock -- 8 cups
-  * White pepper powder -- 1 tsp
+  * White pepper powder -- 1/2 tsp
   * Dashi Tsuyu -- 3 tbsp
     ![Ago Dashi Tsuyu](/img/uploads/3da90498-cac7-4c40-ad33-cfafa22da8de.jpeg "Ago Dashi Tsuyu")
 * Ramen Noodles
