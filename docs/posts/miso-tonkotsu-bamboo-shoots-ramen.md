@@ -45,7 +45,7 @@ Reference: https://www.justonecookbook.com/homemade-chashu-miso-ramen/
   * Pork Ribs -- One packet about 8 pieces
   * Garlic minced -- 4 Cloves
   * Onion minced -- 2 Large
-  * Garlic minced -- 1 knob
+  * Ginger minced -- 1 Knob
   * White Sesame Seeds mostly ground, leave some unground for texture (I used black ones)
   * Sesame Oil -- 2 tbsp
   * Spicy Bean Paste -- 2 tsp
