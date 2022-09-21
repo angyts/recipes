@@ -28,12 +28,12 @@ Those nice fresh ramen eggs that is soft inside.
 
 ::: slot ingredients
 
-* Eggs at room temperature, the fresher the better -- As needed
+* Eggs at room temperature, the fresher the better -- 4 small eggs, if using bigger eggs, might need to adjust the sauce
 * Japanese tsuyu or soup base, such as Mizkan Bonito-Flavored Soup Base -- 50 ml
-* (I used the dashi tsuyu concentrate), have to use a lot less, and also skip the soy sauce. -- ? 15 ml
+* (I used the dashi tsuyu concentrate), have to use a lot less, and also skip the soy sauce. -- 30 ml
 ![Ago dashi tsuyu](/img/uploads/3da90498-cac7-4c40-ad33-cfafa22da8de.jpeg "Dashi soysauce")
 * cooking sake -- 50 ml
-* soy sauce or Tamari soy sauce -- 25 ml
+* soy sauce or Tamari soy sauce -- 25 ml (skip if using ago dashi tsuyu)
 * mirin -- 25 ml
 * Ice
 * Fridge
