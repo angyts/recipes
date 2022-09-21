@@ -33,6 +33,10 @@ Reference: https://natashaskitchen.com/pizza-dough-recipe/
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WM1XcYXix0Y?start=176" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Notes: The crust can become very very hard if a) it is overcooked b) too much water has escaped from the dough because it was not kept airtight. c) forgot to apply some olive oil at the crust.
+
+A﻿apparently, when we mix the ingredients, need to actually knock the measuring cup a few times to make sure the flour is properly measured. There were some times I didn't do that and I ended up with a dough that is too wet and that is very hard to handle. (By the way, even that crust can be pretty hard at the edges... so not sure how to solve this)
+
+N﻿otes on using pizza stones: Do not ever ever spill cheese on it, it is a nightmare to wash.
 :::
 
 ::: slot ingredients
