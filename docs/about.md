@@ -4,7 +4,7 @@ type: page
 ---
 U﻿sing this page to store recipes that I want to try or in research:
 
-#﻿ Nice gourmet pizza
+# Nice gourmet pizza
 
 Recipe I use is from the Santa Barbara Baker. Makes around 3 16" pizza's or 4 15" pizza's. The key is to let the dough cold ferment in the fridge for 3 or 4 days after mixing.
 
@@ -15,7 +15,7 @@ Ingredients
 • ⁠50 g T85 Flour (or whole wheat mix, see video) I use T85 Flour or "Old World Bread Flour" (T80)
 • ⁠25 g Salt I use kosher salt or sea salt.
 • ⁠10 g Olive Oil I use California grown extra virgin olive oil.
-• ⁠2 g Yeast** **I use Fleischmann’s Instant Yeast.
+• ⁠2 g Yeast\*\* \*\*I use Fleischmann’s Instant Yeast.
 • ⁠555 g Water Filtered room temperature water. If it's especially warm out I'll make part ice to keep the temperature down.
 
 Instructions
@@ -42,6 +42,35 @@ Tempering the Dough (about 1-hour before baking pizzas if dough has been cold fe
 
 • ⁠Temper the dough by removing from the refrigerator and allowing to come to room temperature before using. You may carefully remove individual dough balls and temper on an oiled, covered plate reserving additional dough balls for later use
 
+# About cheese <https://www.kingarthurbaking.com/blog/2020/05/18/the-best-cheese-for-pizza>
+
+# A﻿bout Ramen
+
+<video src="[https://youtu.be/_8rsTkOsI2M](https://youtu.be/_8rsTkOsI2M)" controls></video>
+
+# S﻿mall Cookies
+
+<https://www.tasteofhome.com/collection/small-batch-cookies/>
+
+# X﻿iao Long Bao
+
+<https://www.tasteasianfood.com/xiao-long-bao/>
+
+# D﻿ry noodles paste
+
+<https://thewoksoflife.com/hot-dry-noodles-re-gan-mian/>
+
+# Mac and cheese
+
+<https://www.allrecipes.com/recipe/238691/simple-macaroni-and-cheese/>
+
+# T﻿ornado Potato
+
+https://tasty.co/recipe/tornado-potato
+
+# G﻿arlic Naan
+
+https://www.allrecipes.com/recipe/270860/garlic-naan/[](https://www.allrecipes.com/recipe/270860/garlic-naan/)
 
 
 
