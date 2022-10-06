@@ -42,6 +42,8 @@ Tempering the Dough (about 1-hour before baking pizzas if dough has been cold fe
 
 • ⁠Temper the dough by removing from the refrigerator and allowing to come to room temperature before using. You may carefully remove individual dough balls and temper on an oiled, covered plate reserving additional dough balls for later use
 
+Another pizza https://palapizza.com/new-york-style-pizza-dough-recipe/#recipe
+
 # About cheese <https://www.kingarthurbaking.com/blog/2020/05/18/the-best-cheese-for-pizza>
 
 # A﻿bout Ramen
