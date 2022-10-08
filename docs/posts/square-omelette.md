@@ -43,7 +43,7 @@ R﻿eference: Eat with your hands sushi for kids -- Hideo Dekura
   I﻿ used this:
   ![Dashi](/img/uploads/IMG_9106.jpg "Dashi")
 * Soy sauce -- 1 tsp (Optional, see next line)
-  *﻿ Mirin -- 1 tsp (Because my Dashi already has some soy sauce inside, I skipped soy sauce and put mirin instead)
+*﻿ Mirin -- 1 tsp (Because my Dashi already has some soy sauce inside, I skipped soy sauce and put mirin instead)
 * Superfine White Sugar -- 1 tsp
 * Salt -- pinch
 * Square Pan
