@@ -4,6 +4,11 @@ type: page
 ---
 U﻿sing this page to store recipes that I want to try or in research:
 
+# butter curry chicken
+
+Definitely works. And nice. 
+https://www.allrecipes.com/recipe/24782/makhani-chicken-indian-butter-chicken/
+
 # Nice gourmet pizza
 
 Recipe I use is from the Santa Barbara Baker. Makes around 3 16" pizza's or 4 15" pizza's. The key is to let the dough cold ferment in the fridge for 3 or 4 days after mixing.
