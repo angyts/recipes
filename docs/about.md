@@ -4,6 +4,9 @@ type: page
 ---
 U﻿sing this page to store recipes that I want to try or in research:
 
+# kimchi pancake quite nice. 
+https://www.koreanbapsang.com/kimchi-jeon-kimchi-pancake/
+
 # butter curry chicken
 
 Definitely works. And nice. 
