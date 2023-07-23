@@ -4,7 +4,8 @@ type: page
 ---
 U﻿sing this page to store recipes that I want to try or in research:
 
-# kimchi pancake quite nice. 
+# kimchi pancake quite nice.
+
 https://www.koreanbapsang.com/kimchi-jeon-kimchi-pancake/
 
 # butter curry chicken
@@ -56,7 +57,7 @@ Another pizza https://palapizza.com/new-york-style-pizza-dough-recipe/#recipe
 
 # A﻿bout Ramen
 
-<video src="[https://youtu.be/_8rsTkOsI2M](https://youtu.be/_8rsTkOsI2M)" controls></video>
+<video src="\[https://youtu.be/_8rsTkOsI2M](https://youtu.be/_8rsTkOsI2M)" controls></video>
 
 # S﻿mall Cookies
 
@@ -81,6 +82,16 @@ https://tasty.co/recipe/tornado-potato
 # G﻿arlic Naan
 
 https://www.allrecipes.com/recipe/270860/garlic-naan/[](https://www.allrecipes.com/recipe/270860/garlic-naan/)
+
+[](https://www.allrecipes.com/recipe/270860/garlic-naan/)\
+Lasagna 
+
+https://www.allrecipes.com/recipe/23600/worlds-best-lasagna/
+
+Chocolate cake
+
+\
+https://addapinch.com/the-best-chocolate-cake-recipe-ever/
 
 
 
