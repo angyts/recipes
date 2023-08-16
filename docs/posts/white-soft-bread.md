@@ -1,7 +1,7 @@
 ---
 title: White soft bread
 type: post
-image: /img/uploads/default_food.jpeg
+image: /img/uploads/img_5967.jpeg
 date: 2023-08-14T05:39:28.829Z
 tags:
   - Your Father's Recipes
