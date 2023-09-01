@@ -32,7 +32,7 @@ Use this method to prepare the white soft daily use bread
 * Flour -- 3 3/4 cup might need more 
 * Sugar or organic honey -- 3 tbsp
 * Unsalted butter -- 3 tbsp
-* ![](/img/uploads/02045cba-6ec8-4534-84cb-371a292c04de.jpeg)
+* ![](/img/uploads/7798dc18-b803-40a0-8be5-ab1322240251.jpeg)
 * Salt -- 3/4 tsp
 * Dry active yeast -- 2 tsp
 * Warm water -- 1.5 cups
