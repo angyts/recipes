@@ -25,8 +25,7 @@ The delicious sourdough bread
 4. Add 50g of room temperature water. 
 5. Add 50g of flour.
 6. Mix it up so that there are no dry bits. 
-7. Place the rubber band at the level of mix.
-   8﻿. Day -1
+7. Place the rubber band at the level of mix.8﻿. Day -1
    9﻿. The starter should more than double in size.
    1﻿0. Add 300g of water to the mixing bowl
    1﻿1. Wet a spoon so it doesn't stick, then add 100g of sourdough starter. You can keep the bottle with the starter for the next time.
@@ -48,7 +47,8 @@ The delicious sourdough bread
    2﻿7. Put it inside the fridge to let it proof overnight. No need to cover.
    2﻿8. Day 0
    2﻿9. 30 mins before you want to bake. Preheat at 260 degrees Celcius with the dutch oven inside.
-8. Transfer the dough over to a parchment paper slightly bigger than your dough. Carefully flip it over, so that it is the seam side down. Brush down all the extra flour with a brush or hand.
+8.
+9. Transfer the dough over to a parchment paper slightly bigger than your dough. Carefully flip it over, so that it is the seam side down. Brush down all the extra flour with a brush or hand.
    3﻿1. Score the dough. Use a sharp blade.  Cut at an angle about 1cm along the long side.
    3﻿2. Take the dutch oven out, put the dough with the paper inside, cover it and bake for 20mins.
    3﻿3. Take the lid off, continue baking for another 15mins. If you like darker, then can cook longer.
@@ -56,21 +56,20 @@ The delicious sourdough bread
 
    ![](/img/uploads/img_7133.jpeg)
 
-
       :::
 
 ::: slot ingredients
 
 * Sourdough starter -- 1 tbsp
-  ﻿* Glass bottle with cover and rubber band*
+  ﻿ *Glass bottle with cover and rubber band*
   ﻿ Weighing scale
   *﻿ Distilled or boiled water, at room temperature -- 50g + 300g
 * Flour -- 50g + 450g + dusting
-  ﻿* Mixing bowl*
+  ﻿ *Mixing bowl*
   ﻿ Salt -- 10g
 * Proofing basket: like a longish bowl
 * Dutch oven: Seems like a full metal pot that can fit the dough and can fit in your fridge
-  ﻿* Parchment paper*
+  ﻿ *Parchment paper*
   ﻿ Blade or sharp knife
   *﻿ Bread knife
 * Fridge
