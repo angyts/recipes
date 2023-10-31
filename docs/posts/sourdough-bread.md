@@ -53,8 +53,10 @@ The delicious sourdough bread
 32. Take the dutch oven out, put the dough with the paper inside, cover it and bake for 20mins.
 33. Take the lid off, continue baking for another 15mins. If you like darker, then can cook longer.
 34. You can cut it after a few hours. 
-![](/img/uploads/img_7133.jpeg)
-:::
+
+    Reference https://grantbakes.com/good-sourdough-bread/
+    ![](/img/uploads/img_7133.jpeg)
+    :::
 
 ::: slot ingredients
 
