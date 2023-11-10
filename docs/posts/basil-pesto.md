@@ -1,7 +1,7 @@
 ---
 title: Basil Pesto
 type: post
-image: /img/uploads/default_food.jpeg
+image: /img/uploads/img_7248.jpeg
 date: 2023-11-05T05:41:44.263Z
 tags:
   - Your Father's Recipes
