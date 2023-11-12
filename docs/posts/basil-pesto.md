@@ -8,7 +8,7 @@ tags:
   - food
 categories:
   - food
-cookingTime: 10 Minutes
+cookingTime: 20 Minutes
 ---
 ::: slot default
 That sweet fragrant pesto sauce, great for pasta, pizza or anything
@@ -23,7 +23,9 @@ That sweet fragrant pesto sauce, great for pasta, pizza or anything
 ::: slot ingredients
 
 * Fresh Sweet basil -- 30g
-* Fresh Mint leaves -- 30g 
+![](/img/uploads/img_7287.jpg)
+* Fresh Mint leaves, need to remove the stalks  -- 50g
+![](/img/uploads/img_7286.jpg)
 * Fresh Parsley -- 2 tbsp
 * Garlic -- 1 tbsp
 * Onion -- 3 tbsp
