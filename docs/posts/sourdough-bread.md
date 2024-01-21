@@ -1,7 +1,7 @@
 ---
 title: Sourdough Bread
 type: post
-image: /img/uploads/img_7143.jpeg
+image: /img/uploads/img_8438.jpeg
 date: 2023-10-31T01:23:01.674Z
 tags:
   - Your Father's Recipes
@@ -55,7 +55,8 @@ The delicious sourdough bread
 34. You can cut it after a few hours. 
 
 Reference https://grantbakes.com/good-sourdough-bread/
-![](/img/uploads/img_7133.jpeg)
+
+![](/img/uploads/img_8436.jpeg)
 
 :::
 
