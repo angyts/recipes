@@ -10,29 +10,12 @@ logo_url: https://your-site.com/images/logo.svg
 collections:
   - name: "pages"
     label: "Pages"
+    folder: "docs"
     create: true
-    files:
-      - label: "About Page"
-        name: "about"
-        file: "docs/about.md"
-        fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Type", name: "type", widget: "string", default: "page" }
-          - { label: "Body", name: "body", widget: "markdown" }
-      - label: "Recipes to Try Page"
-        name: "try"
-        file: "docs/try.md"
-        fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Type", name: "type", widget: "string", default: "page" }
-          - { label: "Body", name: "body", widget: "markdown" }          
-      - label: "Contact Me"
-        name: "contact"
-        file: "docs/contact.md"
-        fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Type", name: "type", widget: "string", default: "page" }
-          - { label: "Body", name: "body", widget: "markdown" }
+    - fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Type", name: "type", widget: "string", default: "page" }
+      - { label: "Body", name: "body", widget: "markdown" }
   - name: "posts" # Used in routes, e.g., /admin/collections/blog
     label: "Posts" # Used in the UI
     folder: "docs/posts" # The path to the folder where the documents are stored
