@@ -1,5 +1,10 @@
 # Your Father's Recipe
 
+## Quick Start
+1. `nvm use 16` To downgrade node to v16
+2. `yarn install`
+3. `npm run docs:dev`
+
 ## Software Architecture
 
 - `Github` as the repo and single source of truth and media uploads.
