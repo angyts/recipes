@@ -55,21 +55,4 @@ collections:
         label: "VuePress Config"
         name: "vuepress_config"
         fields:
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Lang", name: "lang", widget: "string" }
-          - { label: "Description", name: "description", widget: "text" }
-          - { label: "Cover Image", name: "cover", widget: "image" }
-          - { label: "Logo Image", name: "logo", widget: "image" }
-          - { label: "Nav", name: "nav", widget: "list", fields: [
-              { label: "Text", name: "text", widget: "string" },
-              { label: "Link", name: "link", widget: "string" }
-            ]}
-          - { label: "Footer", name: "footer", widget: "list", fields: [
-              { label: "Text", name: "text", widget: "string" },
-              { label: "Link", name: "link", widget: "string" }
-            ]}
-          - { label: "Social", name: "social", widget: "object", fields: [
-              { label: "Twitter", name: "twitter", widget: "string" },
-              { label: "Facebook", name: "facebook", widget: "string" },
-              { label: "Instagram", name: "instagram", widget: "string" }
-            ]}
+          - { label: "Config Content", name: "content", widget: "text" }
