@@ -5,7 +5,7 @@
 - `Github` as the repo and single source of truth and media uploads.
 - [Netlify CMS](https://www.netlifycms.org/docs/widgets/) as an easy content manager.
 - [Vuepress](https://vuepress.vuejs.org/guide/markdown-slot.html#named-slots) as front end and static site generator.
-- `vuepress-theme-casper` is the theme to generate the look.
+- [vuepress-theme-casper](https://github.com/alexander-heimbuch/vuepress-theme-casper) is the theme to generate the look, unfortunately its out of maintainence now.
 
 ## How it works
 

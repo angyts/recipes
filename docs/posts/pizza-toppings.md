@@ -15,13 +15,15 @@ categories:
 cookingTime: 60 Minutes
 ---
 ::: slot default
-Get some ideas for pizza toppings. Must stay disciplined, if there are too much ingredients, the base can become soggy and the pizza is not nice. 
+Get some ideas for pizza toppings. 
+
+<!-- more -->
+
+Must stay disciplined, if there are too much ingredients, the base can become soggy and the pizza is not nice. 
 
 C﻿an always put more red / white base, but cheese and ingredients have to be just nice.
 
 I﻿ think max 5 things.
-
-<!-- more -->
 
 ### Cheesy
 

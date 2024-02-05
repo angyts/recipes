@@ -2,6 +2,7 @@
   <footer class="site-footer outer">
     <div class="site-footer-content inner">
       <section class="copyright"><a :href="$withBase('/')">{{ blog.title }}</a> &copy; {{ year }}</section>
+      <section><SearchBox/></section>
       <nav class="site-footer-nav">
         <a v-for="(item, index) in footer"
           :key="index"
@@ -16,10 +17,11 @@
 </template>
 
 <script>
+  import SearchBox from '@SearchBox'
   import { mapGetters } from 'vuex'
 
   export default {
-    components: { },
+    components: { SearchBox },
     computed: {
       ...mapGetters(['blog', 'footer']),
       year () {

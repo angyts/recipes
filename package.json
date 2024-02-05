@@ -22,6 +22,7 @@
     },
     "homepage": "https://github.com/angyts/recipes#readme",
     "devDependencies": {
+        "@vuepress/plugin-search": "^1.9.10",
         "vuepress": "^1.9"
     },
     "dependencies": {

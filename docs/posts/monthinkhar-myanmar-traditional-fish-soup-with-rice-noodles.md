@@ -18,7 +18,7 @@ categories:
 cookingTime: 120 Minutes
 ---
 ::: slot default
-This is a "simplified" version of the Myanmar most traditional dish. Imagine the "full" version.
+This is a simplified version of the Myanmar most traditional dish. Imagine the full version.
 <!-- more -->
 There are quite a lot of steps to this dish, which is the usual for most Myanmar dishes. 
 
