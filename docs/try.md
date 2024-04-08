@@ -2,7 +2,6 @@
 title: Recipes that I have yet to try
 type: page
 ---
-
 # Using this page to store recipes that I want to try or in research:
 
 ## kimchi pancake quite nice.
@@ -58,7 +57,7 @@ Another pizza https://palapizza.com/new-york-style-pizza-dough-recipe/#recipe
 
 # A﻿bout Ramen
 
-<video src="\\\[https://youtu.be/_8rsTkOsI2M](https://youtu.be/_8rsTkOsI2M)" controls></video>
+<video src="\\\\[https://youtu.be/_8rsTkOsI2M](https://youtu.be/_8rsTkOsI2M)" controls></video>
 
 # S﻿mall Cookies
 
@@ -82,9 +81,9 @@ https://tasty.co/recipe/tornado-potato
 
 # G﻿arlic Naan
 
-https://www.allrecipes.com/recipe/270860/garlic-naan/[](https://www.allrecipes.com/recipe/270860/garlic-naan/)
+https://www.allrecipes.com/recipe/270860/garlic-naan/
 
-[](https://www.allrecipes.com/recipe/270860/garlic-naan/)\
+\
 Lasagna 
 
 https://www.allrecipes.com/recipe/23600/worlds-best-lasagna/
@@ -117,7 +116,24 @@ This is an example implementation of [Casper](https://demo.ghost.io) (the defaul
 ```
 
 # Honey pork ribs
+
 https://www.allrecipes.com/recipe/17949/honey-garlic-ribs/
 
-#﻿# Curry Puff
+\#﻿# Curry Puff
 https://www.youtube.com/watch?v=XrKXH8yRA5E
+
+asparagus
+
+https://www.allrecipes.com/recipe/18318/pan-fried-asparagus/
+
+honey garlic ribs
+
+https://www.allrecipes.com/recipe/17949/honey-garlic-ribs/
+
+Mushroom
+
+https://www.allrecipes.com/recipe/235589/chef-johns-creamy-mushroom-soup/
+
+japanese milk bread 
+
+https://www.kingarthurbaking.com/recipes/japanese-milk-bread-recipe
