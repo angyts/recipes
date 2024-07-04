@@ -36,11 +36,11 @@ Reference: https://www.yummly.com/recipe/Tiny-Crispy-Crunchy-Chocolate-Chip-Cook
 
 ::: slot ingredients
 
-* All purpose flour. (I used the indian flour from mustafa) -- 1 1/4 cups
-* salt -- 1/2 tsp
-* baking soda 1/4 tsp 
-* butter room temperature -- 3/4 cup (I used 2 blocks of 100g of Amul butter: the indian kind)   
-* sugar -- 1 cup (1/2 cup brown 1/2 cup white) 
+* All purpose flour. (I used the indian flour from mustafa) -- 1 1/4 cups (150g)
+* salt -- 1/2 tsp (3g)
+* baking soda 1/4 tsp (1.5g)
+* butter room temperature -- 3/4 cup (I used 2 blocks of 100g of Amul butter: the indian kind) (170g actually)  
+* sugar -- 1 cup (1/2 cup brown 1/2 cup white) (175G total)
 * 1 large egg 
 * vanilla extract -- 2 tsp 
 * mini chocolate chips -- 12-oz (approx 2 cups) (1 pack of hershey's chocolate chips, used blender to break down to make it smaller.)
