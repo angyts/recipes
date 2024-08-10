@@ -40,11 +40,11 @@ Notes on using pizza stones: Do not ever ever spill cheese on it, it is a nightm
 :::
 
 ::: slot ingredients
-- All-purpose flour, plus more for dusting -- 3 1/3 cups
-- Warm water, 40.5 deg C -- 1 1/4 cups
+- All-purpose flour, plus more for dusting -- 3 1/3 cups -- 450g
+- Warm water, 40.5 deg C -- 1 1/4 cups -- 190g
 - Fine Sea Salt -- 1/2 tbsp
 - Raw Honey -- 1 tsp
 - Active dry yeast -- 1/2 tsp
 - Olive oil -- for brushing
-- (Optional) Sourdough Starter - 3 tbsp
+- (Optional) Sourdough Waste - 3 tbsp -- or 100g Sourdough starter
 :::
