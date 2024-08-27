@@ -23,19 +23,23 @@ Must stay disciplined, if there are too much ingredients, the base can become so
 
 C﻿an always put more red / white base, but cheese and ingredients have to be just nice.
 
-I﻿ think max 5 things.
+I﻿ think **max 5 things**.
+
+### Tomato Triple Cheese
+Ingredients: Red base, Cheddar, Parmesan, Mozarella
 
 ### Cheesy
-
-Ingredients: White base, Mozzarella
+Ingredients: White base, Mozzarella, 
 
 ### Super Cheesy
-
 Ingredients: White base, Mozzarella, Cheddar
 
-#﻿## Seafood
+### Spinach
+Ingredients: 
 
-I﻿ngredients: 300gm small prawns or about 8-10 pieces --> butter garlic prawns, 1 tablespoon sun dried tomato pesto, 1 tablespoon basil pesto, diced sun dried tomatoes, 2 tsp crumbled feta, handful of fresh basil leaves
+### Seafood
+
+I﻿ngredients: 300gm small prawns or about 8-10 pieces, prepare [like this](https://recipes.punggolgp.com/posts/preparing-peeled-prawns.html) --> then fry with butter garlic prawns, 1 tablespoon sun dried tomato pesto, 1 tablespoon basil pesto, diced sun dried tomatoes, 2 tsp crumbled feta, handful of fresh basil leaves
 
 ### Hawaiian
 
@@ -44,7 +48,7 @@ P﻿ossible ingredients: Red base, creamy Mozzarella, bacon, fresh pineapple, Ha
 1. Chop fresh pineapple into small cubes.
 2. Boil with one tablespoon of sugar with a little water just enough to cover. Boil till soft.
 3. Or put fresh ones, it seems to be less wet.
-4﻿. Or use canned ones
+   4﻿. Or use canned ones
 
 ### Pepperoni
 
@@ -81,4 +85,4 @@ https://www.recipetineats.com/pizza-toppings/
 ::: slot ingredients
 
 * See Below
-:::
+  :::
