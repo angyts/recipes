@@ -14,7 +14,7 @@ categories:
   - italian
 cookingTime: 60 Minutes
 ---
-::: slot default
+l::: slot default
 Get some ideas for pizza toppings. 
 
 <!-- more -->
@@ -91,6 +91,5 @@ https://www.recipetineats.com/pizza-toppings/
 :::
 
 ::: slot ingredients
-
-* See Below
-  :::
+- See Below
+:::
