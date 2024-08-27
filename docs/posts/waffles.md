@@ -1,7 +1,7 @@
 ---
 title: Waffles
 type: post
-image: /img/uploads/default_food.jpeg
+image: /img/uploads/img_4477.jpeg
 date: '2024-08-10'
 tags:
   - Your Father's Recipes
