@@ -1,7 +1,7 @@
 ---
 title: Pizza Toppings
 type: post
-image: /img/uploads/default_food.jpeg
+image: /img/uploads/ef873f2a-cd04-4f8b-8513-1c776e19f2ec.jpeg
 date: 2022-08-24T15:58:50.802Z
 tags:
   - Your Father's Recipes
@@ -26,16 +26,24 @@ C﻿an always put more red / white base, but cheese and ingredients have to be j
 I﻿ think **max 5 things**.
 
 ### Tomato Triple Cheese
+
 Ingredients: Red base, Cheddar, Parmesan, Mozarella
 
 ### Cheesy
+
 Ingredients: White base, Mozzarella, 
 
 ### Super Cheesy
+
 Ingredients: White base, Mozzarella, Cheddar
 
 ### Spinach
-Ingredients: 
+
+Ingredients: Frozen Spinach: Separate the leaves from the stalks of the spinach, then boil the spinach for 1-2 mins. Squeeze dry the leaves and the stalk and freeze separately. We usually use the frozen leaves only, but can use the stalks also. 
+
+1 tablespoon pesto, handful of crumpled feta, handful of fresh basil leaves
+
+![](/img/uploads/ef873f2a-cd04-4f8b-8513-1c776e19f2ec.jpeg)
 
 ### Seafood
 
