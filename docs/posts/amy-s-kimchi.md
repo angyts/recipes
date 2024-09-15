@@ -47,6 +47,7 @@ This is for making Kimchi according to Auntie Amy
 6. Mix/stir until becomes a paste, about 5mins.
 7. Let it cool, but while not completely cool, add dried chili (Sliced Shangdong Chili) x 2-3 packs according to spice level.
 8. Add the chili powder about 100g for the colour
+![](/img/uploads/img_4380.jpeg)
 ### Mix it up!
 1. When fully cooled, add the cabbages, the apples, pear, garlic, big chilli slices, carrot, cucumber, ginger
 2. Can it, or bottle them in airtight containers. You can ferment at room temperature or store them in the fridge after one day.
