@@ -16,7 +16,9 @@ cookingTime: 60 Minutes
 ---
 ::: slot default
 For that super crispy and nice special pizza base they sell at restaurants.
+
 <!-- more -->
+
 1. Mix warm water at 40.5 degree Celsius, honey and salt in a small bowl. Sprinkle the yeast on top. Let it sit for 5 mins before stirring.  
 2. Put the flour in a large bowl. (Optional: Add 3 tbsp of sourdough stater to make the dough softer) Make a well in the centre of the flour and pour in the yeast mixture. Slowly stir with a spoon. Knead by hand 2 mins. (Will be sticky)
 3. Cover with plastic till airtight. Leave it at room temperature and watch it grow. About double the size, or up to you. Takes about 4-5 hours.
@@ -40,11 +42,12 @@ Notes on using pizza stones: Do not ever ever spill cheese on it, it is a nightm
 :::
 
 ::: slot ingredients
-- All-purpose flour, plus more for dusting -- 3 1/3 cups -- 450g
-- Warm water, 40.5 deg C -- 1 1/4 cups -- 190g
-- Fine Sea Salt -- 1/2 tbsp
-- Raw Honey -- 1 tsp
-- Active dry yeast -- 1/2 tsp
-- Olive oil -- for brushing
-- (Optional) Sourdough Waste - 3 tbsp -- or 100g Sourdough starter
-:::
+
+* All-purpose flour, plus more for dusting -- 3 1/3 cups -- 450g
+* Warm water, 40.5 deg C -- 1 1/4 cups -- 300g
+* Fine Sea Salt -- 1/2 tbsp — 10g
+* Raw Honey -- 1 tsp
+* Active dry yeast -- 1/2 tsp
+* Olive oil -- for brushing
+* (Optional) Sourdough Waste - 3 tbsp -- or 100g Sourdough starter
+  :::
