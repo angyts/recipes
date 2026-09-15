@@ -79,7 +79,7 @@ module.exports = {
     }
     ],
     social: {
-      github: 'https://github.com/angyts'
+      github: 'https://github.com/angyts/recipes/issues'
      // twitter: 'https://twitter.com',
      // facebook: 'https://www.facebook.com/chothyn.lay',
      // instagram: 'https://www.instagram.com/january_cho/',
